@@ -1,0 +1,10 @@
+# Ignore PyCharm project files
+.idea/
+
+# Ignore Python-specific files (if not already present)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+/Thesis Data

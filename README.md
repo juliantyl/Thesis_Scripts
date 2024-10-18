@@ -1,6 +1,6 @@
-# [Project Name] - Undergraduate Thesis Project
+# Optimizing Code Classification and Clone Detection: Investigating Semantic and Structural Representations in Machine Learning Models - Undergraduate Thesis Project
 
-Welcome to the scripts for my undergraduate thesis project: **[Project Name]**.
+Welcome to the scripts for my undergraduate thesis project: **Optimizing Code Classification and Clone Detection: Investigating Semantic and Structural Representations in Machine Learning Models**.
 
 ## Project Structure
 
